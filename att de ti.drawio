@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Página-1" id="iMnUTwddAkoEWTMJj-Ee">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ko8lTfr1MMlSUx4k0Ygr-1" target="Ko8lTfr1MMlSUx4k0Ygr-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-1" value="Clientes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ko8lTfr1MMlSUx4k0Ygr-2" target="Ko8lTfr1MMlSUx4k0Ygr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-2" value="Nome do clientes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="720" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ko8lTfr1MMlSUx4k0Ygr-3" target="Ko8lTfr1MMlSUx4k0Ygr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-3" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; text-align: start;&quot;&gt;nome do garçom&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="750" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ko8lTfr1MMlSUx4k0Ygr-8" target="Ko8lTfr1MMlSUx4k0Ygr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-8" value="Garçons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ko8lTfr1MMlSUx4k0Ygr-15" target="Ko8lTfr1MMlSUx4k0Ygr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-15" value="Pratos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ko8lTfr1MMlSUx4k0Ygr-16" target="Ko8lTfr1MMlSUx4k0Ygr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ko8lTfr1MMlSUx4k0Ygr-16" target="Ko8lTfr1MMlSUx4k0Ygr-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ko8lTfr1MMlSUx4k0Ygr-16" target="Ko8lTfr1MMlSUx4k0Ygr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-16" value="Pedidos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ko8lTfr1MMlSUx4k0Ygr-17" target="Ko8lTfr1MMlSUx4k0Ygr-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="680" as="targetPoint" />
+            <mxPoint x="300" y="740" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-17" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; text-align: start;&quot;&gt;nome do prato&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="730" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ko8lTfr1MMlSUx4k0Ygr-20" target="Ko8lTfr1MMlSUx4k0Ygr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-20" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; text-align: start;&quot;&gt;preço, data do pedido&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="730" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-22" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; text-align: start;&quot;&gt;Um garçom pode atender vários pedidos&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-25" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; text-align: start;&quot;&gt;Um cliente pode fazer vários pedidos&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko8lTfr1MMlSUx4k0Ygr-28" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; text-align: start;&quot;&gt;Um pedido pode ter vários pratos&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="410" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
